@@ -1,3 +1,3 @@
 # goofypeople.github.io
-Some website? <br>
-I honestly don't know. 
+A site made by some goofy people. <br>
+I honestly don't know. <br>
