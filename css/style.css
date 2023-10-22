@@ -24,18 +24,10 @@ body {
     color: black;
   }
   
-  .button {
-    background-color: #0000aa;
-    border: none;
-    color: white;
-    padding: 30px 64px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 32px;
-    margin: 8px 4px;
-    cursor: pointer;
-    border-radius: 16px;
+  button {
+    background: transparent;
+    border: none !important;
+    font-size:0;
   }
   
   .menuITEMS {
